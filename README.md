@@ -10,3 +10,9 @@ Task 2: Number Guessing Game 🎮
 A Java-based Number Guessing Game called “Mystery Vault” where players try to guess a secret number between 1 and 100 within limited attempts.
 The game includes multiple rounds, scoring based on performance, and hints like “Too High,” “Too Low,” and “Very Close.”
 At the end, players receive a final score and rank based on their average performance across all rounds.
+
+Task 3: ATM Interface 🏧
+
+💳 Developed a Java-based ATM Interface with features like deposit, withdrawal, transfer, and balance check.
+📜 Implemented transaction history tracking using ArrayList and Object-Oriented Programming concepts.
+🔐 Added secure user authentication with a menu-driven console interface for smooth user interaction.
